@@ -1,4 +1,4 @@
 repository:
   name: unlink
   description: A shell util for quickly breaking a symlink.
-  topics: symlink, unlink, link, nu, nushell, util
+  topics: symlink unlink link nu nushell util
